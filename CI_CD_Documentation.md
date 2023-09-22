@@ -28,21 +28,18 @@ In rare cases where manual triggering of the pipeline is required, developers ca
 4. Click the "Run workflow" button.
 5. Choose the branch (typically "master") and start the workflow.
 
-## Issue Encountered
-
-During the pipeline setup, a critical issue was encountered:
-
 ### Issue Description
 
-The pipeline successfully completes all stages, but the `index.html` file generation is not occurring as expected. As a DevOps engineer with limited React expertise, I suspect that this issue might be related to the code provided by the recruiter. Despite thorough troubleshooting and several attempts, I have not been able to resolve this issue.
+The `index.html` file generation appears to be problematic. Despite multiple attempts at troubleshooting, the issue persists. It is important to note that my primary role is as a DevOps engineer, and my expertise is focused on infrastructure and automation rather than React development. My limited understanding of React may have influenced the troubleshooting process.
 
-## Recruiter's Code
+### Suspected Causes
 
-I have provided my observations regarding the code sections that I suspect might be causing the issue, but my limited React knowledge makes it challenging to pinpoint the exact problem.
+While I have made observations about specific code sections that might be related to the issue, I suspect that a more in-depth analysis by a React expert is required to pinpoint the exact cause.
 
 ## Feedback Request
 
-I welcome feedback and assistance from the recruiter or reviewers, especially from React experts who can provide insights into resolving the `index.html` issue. Your guidance will be invaluable in addressing this problem effectively.
+I welcome feedback and guidance from the recruiter or any React experts who may be reviewing this assignment. Your expertise in React development would be invaluable in diagnosing and resolving the `index.html` issue effectively.
+
 
 ## Additional Notes
 
